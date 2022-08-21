@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Year 2 S2\\DOE522\\FAS\\Xavier Myburgh 9888 DOE522 FA2\\DOE522Quiz\\DOE522Quiz\\DOE522Quiz.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Year 2 S2\\DOE522\\FAS\\Xavier Myburgh 9888 DOE522 FA2\\Simple-Quiz\\DOE522Quiz\\DOE522Quiz.csproj",
       "projectName": "DOE522Quiz",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\Year 2 S2\\DOE522\\FAS\\Xavier Myburgh 9888 DOE522 FA2\\DOE522Quiz\\DOE522Quiz\\DOE522Quiz.csproj",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\Year 2 S2\\DOE522\\FAS\\Xavier Myburgh 9888 DOE522 FA2\\Simple-Quiz\\DOE522Quiz\\DOE522Quiz.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\Year 2 S2\\DOE522\\FAS\\Xavier Myburgh 9888 DOE522 FA2\\DOE522Quiz\\DOE522Quiz\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\Year 2 S2\\DOE522\\FAS\\Xavier Myburgh 9888 DOE522 FA2\\Simple-Quiz\\DOE522Quiz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
