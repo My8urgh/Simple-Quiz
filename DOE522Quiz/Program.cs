@@ -21,6 +21,7 @@ namespace Quiz
 
 			// Q1
 			Console.Write("To answer the question type A,B,C," + "\n");
+			Console.WriteLine("----------------------------------------------------");
 			Console.Write("1. What has to be broken before you can use it?\n");
 			Console.WriteLine("A. Glow Stick");
 			Console.WriteLine("B. An Egg");
@@ -223,6 +224,7 @@ namespace Quiz
 			Console.WriteLine("Student Number: " + number);
 			Console.Write("Number of questions correct: " + totalScore + "\n");
 			Console.Write("Number of questions incorrect: " + Incorrect + "\n");
+			Console.WriteLine("Thank you for taking this quizz");
 
 		}
 	}
